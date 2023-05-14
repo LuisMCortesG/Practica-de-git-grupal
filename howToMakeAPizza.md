@@ -2,7 +2,7 @@
 <html>
   <head>
       <meta charset="UTF-8">
-      <title>Hoja de Vida de Luis Miguel Cortés Guarín</title>
+      <title>howToMakeAPizza</title>
       <link rel="stylesheet" type="text/css" href="styles.css">
   </head>
   
